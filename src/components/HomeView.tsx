@@ -46,7 +46,7 @@ export default function HomeView({ onGetStarted }: HomeViewProps) {
           transition={{ duration: 0.8, delay: 0.15 }}
           className="text-4xl md:text-6xl lg:text-7xl font-bold font-display tracking-tight text-white mb-6 leading-tight"
         >
-          Organize Your Life, <br className="hidden sm:inline" />
+          Organize Your Life 🚀 <br className="hidden sm:inline" />
           <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent drop-shadow-[0_0_15px_rgba(20,184,166,0.15)]">
             The Smart Way 🪶
           </span>
