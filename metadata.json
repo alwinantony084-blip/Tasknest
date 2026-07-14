@@ -1,0 +1,6 @@
+{
+  "name": "TaskNest",
+  "description": "An elegant, high-fidelity task management companion featuring categorization, progress tracking, local storage persistence, and beautiful dark Lumina Noir aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
