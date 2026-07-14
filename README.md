@@ -1,9 +1,8 @@
 # TaskNest
 
-Your elegant digital task companion — plan, track, and conquer your goals with clarity and style.
+🚀 **[Visit the Live Application Here](https://tasknest-coral.vercel.app)**
 
-![TaskNest](https://img.shields.io/badge/status-active-14b8a6) ![React](https://img.shields.io/badge/React-19-61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6) ![Tailwind](https://img.shields.io/badge/Tailwind-v4-06B6D4)
-
+A modern task management application built with React, TypeScript, and Tailwind CSS.
 ## About
 
 TaskNest is a modern, glassmorphic to-do list web application.
